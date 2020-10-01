@@ -2,6 +2,8 @@
 
 // Formas de declarar números.
 
+// O objeto JavaScript Number é um objeto encapsulado que permite você trabalhar com valores numéricos. Um objeto Number é criado utilizando o construtor Number().
+
 const peso1 = 1.0
 const peso2 = Number('2.0')
 
