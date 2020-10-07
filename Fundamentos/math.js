@@ -5,4 +5,6 @@ const raio = 5.6
 // A função Math.pow() retorna a base elevada ao expoente power.
 const area = Math.PI * Math.pow(raio,2)
 console.log(area)
+
+//O operador typeof retorna uma string indicando o tipo de um operando.
 console.log(typeof Math)
