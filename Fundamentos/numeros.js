@@ -37,5 +37,6 @@ console.log(media.toString())
 
 console.log(media.toString(2)) // converte em binário.
 
+//O operador typeof retorna uma string indicando o tipo de um operando.
 console.log(typeof media)
 console.log(typeof Number)
