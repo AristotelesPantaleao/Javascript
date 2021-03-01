@@ -1,2 +1,2 @@
 # Javascript
-Fundamentos, Estruturas de Controle, Função, Objeto, Array.
+Fundamentos, Estruturas de Controle, Função, Objeto, Array e Exercícios.
